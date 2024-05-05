@@ -1,1 +1,3 @@
-This repository, authored by Nithish and co-authored by Sivani and Gowtham, is dedicated to the RO-5402 mini-project on Robot Kinematics. It serves as a comprehensive hub for all project-related code and parts, facilitating future evaluation and sharing of our work. Explore to delve into our collaborative efforts in the realm of robotics
+🚀 Welcome to our RO-5402 Mini-Project Repository! 🤖
+
+Authored by Nithish and co-authored by Sivani and Gowtham, this dynamic hub is your go-to for all things Robot Kinematics(RO5402) instructed by Dr.Karthikeyan sir! 💡 We've poured our heart and soul into this collection, ensuring every code snippet and part is meticulously organized for future evaluation and sharing. Dive in and join us on our robotic journey! 🤖✨
